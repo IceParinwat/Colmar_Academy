@@ -390,6 +390,10 @@ footer li {
     display: none;
   }
 
+  nav {
+    padding: 24px 0;
+  }
+
   .mobile-nav {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
